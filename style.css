@@ -6,6 +6,7 @@ body {
     padding: 0;
     background-image: url('https://learn.logikaschool.com/uploads/student/1789603/681e4d414a0a0.jpg');
     height: auto;
+
     background-size: cover;
     text-shadow: 1px 1px 2px rgb(0, 0, 0);
 }
