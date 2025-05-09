@@ -1,0 +1,108 @@
+body {
+    background-color: #001F3F;
+    color: #E0E0E0;
+    font-family: 'Days One', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('https://learn.logikaschool.com/uploads/student/1789603/681e3e064eb36.jpg');
+    height: auto;
+    background-size: 100% auto;
+    text-shadow: 1px 1px 2px rgb(0, 0, 0);
+}
+
+header {
+    text-align: center;
+    padding: 60px 20px;
+}
+
+header h1 {
+    font-size: 48px;
+    color: #00CED1;
+}
+
+header p {
+    font-size: 18px;
+    color: #FFD700;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    background : linear-gradient(to top, #001F3F, #00CED1 ) ;
+    padding: 10px 0;
+}
+
+nav a {
+    color: #00CED1;
+    text-decoration: none;
+    padding: 10px 20px;
+    font-size: 18px;
+}
+
+
+main {
+    max-width: 1000px;
+    margin: 40px auto;
+    padding: 20px;
+    background : linear-gradient(to bottom, #001F3F, #00CED1 ) ;
+    border-radius: 10px;
+}
+
+.hero {
+    text-align: center;
+}
+
+.hero h2 {
+    font-size: 36px;
+    color: #00CED1;
+}
+
+.hero p {
+    font-size: 18px;
+}
+
+.btn {
+    display: inline-block;
+    color: white;
+    padding: 15px 30px;
+    font-size: 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    background-image: url("https://learn.logikaschool.com/uploads/student/1789603/681e3d62ea5ee.png");
+    height: auto;
+    background-size: 100% auto;
+}
+
+h3 {
+    color: #FFA500;
+}
+
+p {
+    font-size: 16px;
+}
+
+footer {
+    text-align: center;
+    background : linear-gradient(to top, #001F3F, #00CED1 ) ;
+    padding: 20px;
+    
+}
+
+footer p {
+    font-size: 14px;
+}
+
+footer a {
+    color: #00CED1;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.sublogo {
+    height: 65px;
+}
+
+.planet {
+    height:125px;
+    border-radius: 15px;
+}
